@@ -15,4 +15,4 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.switch_page("pages/Embajadores.py")
+st.page_link("pages/Embajadores.py", label="Ir a Embajadores")
