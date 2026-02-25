@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+plotly
+matplotlib
+mlxtend
+openpyxl
+streamlit
+pyinstaller
+xlsxwriter
