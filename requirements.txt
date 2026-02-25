@@ -7,4 +7,5 @@ mlxtend
 openpyxl
 streamlit
 pyinstaller
+altair
 xlsxwriter
